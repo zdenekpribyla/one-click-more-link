@@ -1,0 +1,16 @@
+ [
+		{
+			"idLink": "seznam",
+			"urlLink": "https://www.seznam.cz/"
+		},
+
+		{
+			"idLink": "idnes",
+			"urlLink": "https://www.idnes.cz/"
+		},
+
+		{
+			"idLink": "webtrh",
+			"urlLink": "https://webtrh.cz/"
+		}
+	]
