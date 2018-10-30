@@ -1,16 +1,23 @@
  [
 		{
-			"idLink": "cerna",
-			"urlLink": [ "https://www.seznam.cz/", "https://www.idnes.cz/" ]
+			"linkId": "cerna",
+			"linkUrl": [
+				"https://www.seznam.cz/",
+				"https://www.idnes.cz/"
+			]
 		},
 
 		{
-			"idLink": "cervena",
-			"urlLink": "https://www.idnes.cz/"
+			"linkId": "cervena",
+			"linkUrl": [
+				"https://lidovky.cz/"
+			]
 		},
 
 		{
-			"idLink": "hneda",
-			"urlLink": "https://webtrh.cz/"
+			"linkId": "hneda",
+			"linkUrl": [
+				"https://webtrh.cz"
+			]
 		}
-	]
+ ]
